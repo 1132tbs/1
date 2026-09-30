@@ -14,7 +14,8 @@ int read(){
 	return x*f;
 }
 int main(){
-    int a;a=read();
+    int a,b;a=read();b=read();
     cout<<"你好."<<a<<endl;
+	cout<<"你好."<<b<<endl;
     return 0;
 }
